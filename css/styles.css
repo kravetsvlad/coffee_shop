@@ -175,7 +175,7 @@ ul li {
 
 .home-bg {
   background: linear-gradient(90deg, var(--white), transparent 70%),
-    url(/img/home-bg.jpg) no-repeat;
+    url(../img/home-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
